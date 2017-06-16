@@ -11,8 +11,12 @@ Magento Marketplace Fastway Shipping Plugin provides Fastway Shipping method for
  	<li>Allow seller can print the shipping slip.</li>
  	<li>Ability to download Invoice and Shipping Slip easily.</li>
 </ul>
-<strong>Install <a href="https://www.magebay.com/magento-multi-vendor-marketplace-extension">Magento Multi Vendor Marketplace</a> to be able to use this plugin</strong>
+<p><strong>Related Add-ons:&nbsp;<a href="https://github.com/magebaycom/magento-marketplace-seller-coupons">Magento Marketplace Seller Coupons</a></strong></p>
 
-<strong><em>- Contact </em><em>us:</em><em> info@magebay.com</em></strong>
+<p>-----------------------------------------------------------------------------------------------------------------------------------</p>
 
-<strong><em>- Website: <a href="https://www.magebay.com/">https://www.magebay.com</a></em></strong>
+<p>Install&nbsp;<a href="https://www.magebay.com/magento-multi-vendor-marketplace-extension" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">Magebay Magento Multi Vendor Marketplace</a>&nbsp;to be able to use this plugin</p>
+
+<p><em>- Contact&nbsp;us:&nbsp;<a href="mailto:info@magebay.com" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">info@magebay.com</a></em></p>
+
+<p><em>- Website:&nbsp;<a href="https://www.magebay.com/" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">https://www.magebay.com</a></em></p>
